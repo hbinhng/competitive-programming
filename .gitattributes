@@ -1,0 +1,3 @@
+*.pdf text=auto
+*.cbp text=auto
+*.cpp text eol=lf
