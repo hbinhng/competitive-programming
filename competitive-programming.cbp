@@ -44,6 +44,7 @@
 		<Unit filename="articles/BasicNumberTheory/src/prob1-8.cpp" />
 		<Unit filename="articles/BasicNumberTheory/src/prob1-9.cpp" />
 		<Unit filename="articles/BasicNumberTheory/src/prob3-33.cpp" />
+		<Unit filename="articles/OneDimensionArray/src/prob22.cpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
